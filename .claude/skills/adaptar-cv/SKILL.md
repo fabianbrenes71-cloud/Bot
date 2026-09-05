@@ -16,6 +16,10 @@ una oferta de trabajo concreta.
    - Si no existe, pedir al usuario que pegue su CV o indique dónde está, y
      guardarlo en `cv/cv-base.md` para futuras adaptaciones. Nunca inventes
      experiencia, títulos o habilidades que no estén en el CV base.
+   - Revisar `cv/variantes/` por si hay variantes de encabezado/perfil para
+     distintos enfoques (por ejemplo, "operario de producción" vs. "técnico
+     de mantenimiento"). Elegir la variante que mejor calce con la oferta, o
+     usar el encabezado/perfil de `cv-base.md` si ninguna variante aplica.
 
 2. **Obtener la oferta de empleo**
    - Si el usuario da una URL, usar WebFetch para extraer el texto de la
