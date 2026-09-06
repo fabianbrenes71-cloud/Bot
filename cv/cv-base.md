@@ -6,7 +6,7 @@ Cartago, Costa Rica · +506 6007-5688 · fabianbrenes71@gmail.com · linkedin.co
 
 ## PERFIL PROFESIONAL
 
-Técnico Medio en Electrónica Industrial con 6 años de experiencia en manufactura electrónica y de dispositivos médicos en empresas multinacionales. Especializado en equipos de línea SMT: pick and place, hornos de reflow, probadores eléctricos con fixture y sistemas de visión. Experiencia en mantenimiento preventivo y correctivo de sistemas eléctricos, neumáticos y de vacío, con resultados medibles en reducción de tiempo de inactividad y mejora de yield. Manejo de SAP para gestión de repuestos. Inglés B2 y capacitación técnica en el extranjero. Actualmente cursando Ingeniería Electromecánica.
+Técnico Medio en Electrónica Industrial con 6 años de experiencia en manufactura electrónica y de dispositivos médicos en empresas multinacionales. Especializado en equipos de línea SMT: pick and place, hornos de reflow, probadores eléctricos con fixture y sistemas de visión. Experiencia en mantenimiento preventivo y correctivo de sistemas eléctricos, neumáticos y de vacío, con resultados medibles en reducción de tiempo de inactividad y mejora de yield. Experiencia trabajando bajo la norma ISO 13485, en ambiente de cuarto limpio y entorno médico regulado. Manejo de SAP para gestión de repuestos. Inglés B2 (estudiado en el Centro Cultural Costarricense Norteamericano) y capacitación técnica en el extranjero. Actualmente cursando Ingeniería Electromecánica.
 
 ## EXPERIENCIA PROFESIONAL
 
@@ -22,8 +22,8 @@ Zona Franca Metropolitana, Heredia · Manufactura de semiconductores. Salida por
 
 ### Técnico Operario — Coloplast | Ago 2021 – Ene 2022
 Manufactura de dispositivos médicos.
-- Operación y soporte técnico de maquinaria industrial para manufactura de dispositivos médicos.
-- Diagnóstico, reparación y mantenimiento preventivo de equipos eléctricos y neumáticos bajo estándares de calidad y seguridad del sector médico.
+- Operación y soporte técnico de maquinaria industrial para manufactura de dispositivos médicos, en ambiente de cuarto limpio.
+- Diagnóstico, reparación y mantenimiento preventivo de equipos eléctricos y neumáticos bajo estándares de calidad y seguridad del sector médico, incluyendo la norma ISO 13485.
 - Seleccionado para capacitación técnica en Hungría dentro del proceso de transferencia tecnológica de equipos de manufactura médica.
 
 ### Lab Technician — Infotree Global Solutions (asignado a Intel) | May 2020 – Ago 2021
@@ -52,10 +52,11 @@ Desarrollo de herramientas propias de automatización, monitoreo y análisis de 
 - Software: SAP (repuestos y solicitud de piezas) · Microsoft Office
 - Automatización: análisis de datos · desarrollo de herramientas asistido por IA
 - Procesos: mejora continua · optimización de yield · reducción de downtime
+- Calidad y ambiente regulado: norma ISO 13485 · cuarto limpio · manufactura médica regulada
 
 ## IDIOMAS
 
-Español: nativo · Inglés: B2 (intermedio alto), con experiencia laboral y capacitación técnica en entorno internacional.
+Español: nativo · Inglés: B2 (intermedio alto), estudiado en el Centro Cultural Costarricense Norteamericano, con experiencia laboral y capacitación técnica en entorno internacional.
 
 ## REFERENCIAS
 

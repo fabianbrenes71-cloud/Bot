@@ -6,7 +6,7 @@ Cartago, Costa Rica · +506 6007-5688 · fabibrenesortega@gmail.com · linkedin.
 
 ## PROFESSIONAL PROFILE
 
-Técnico Medio en Electrónica Industrial with 6 years of experience supporting production lines in regulated medical device and semiconductor manufacturing environments (Intel, Coloplast, Qorvo). Hands-on background in equipment set-up, preventive/corrective maintenance and troubleshooting to prevent line downs, with proven results: 15% reduction in equipment downtime and improved test yield through calibration and root-cause problem solving. Accustomed to working under strict quality and safety standards in regulated manufacturing (medical devices, semiconductors), with documentation discipline and attention to detail. Currently pursuing a degree in Electromechanical Engineering. Intermediate English (B2), written and verbal.
+Técnico Medio en Electrónica Industrial with 6 years of experience supporting production lines in regulated medical device and semiconductor manufacturing environments (Intel, Coloplast, Qorvo). Hands-on experience working under ISO 13485, in cleanroom conditions and regulated medical environments. Background in equipment set-up, preventive/corrective maintenance and troubleshooting to prevent line downs, with proven results: 15% reduction in equipment downtime and improved test yield through calibration and root-cause problem solving. Accustomed to working under strict quality and safety standards in regulated manufacturing, with documentation discipline and attention to detail. Currently pursuing a degree in Electromechanical Engineering. Intermediate English (B2, studied at Centro Cultural Costarricense Norteamericano), written and verbal.
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -23,8 +23,8 @@ Zona Franca Metropolitana, Heredia · Semiconductor manufacturing. Departure due
 
 ### Technical Operator — Coloplast | Aug 2021 – Jan 2022
 Regulated medical device manufacturing.
-- Operation and technical support of industrial machinery for medical device manufacturing under strict quality and safety standards for the medical sector.
-- Diagnosis, repair and preventive maintenance of electrical and pneumatic equipment.
+- Operation and technical support of industrial machinery for medical device manufacturing in a cleanroom environment.
+- Diagnosis, repair and preventive maintenance of electrical and pneumatic equipment under strict quality and safety standards for the medical sector, including ISO 13485.
 - Selected for technical training in Hungary as part of a technology transfer process for medical manufacturing equipment.
 
 ### Lab Technician — Infotree Global Solutions (assigned to Intel) | May 2020 – Aug 2021
@@ -50,12 +50,12 @@ Self-developed automation, monitoring and data analysis tools, AI-assisted:
 - Maintenance: preventive · corrective · failure diagnosis · calibration · equipment set-up
 - Systems: electrical · pneumatic · vacuum · compressed air
 - Software: SAP (spare parts & requisitions) · Microsoft Office
-- Quality & process: regulated manufacturing (medical devices, semiconductors) · documentation and records · root-cause problem solving · continuous improvement · yield optimization · downtime reduction
+- Quality & process: ISO 13485 · cleanroom environment · regulated medical device manufacturing · documentation and records · root-cause problem solving · continuous improvement · yield optimization · downtime reduction
 - Automation: data analysis · AI-assisted tool development
 
 ## LANGUAGES
 
-Spanish: native · English: B2 (upper-intermediate), with work experience and technical training in an international environment.
+Spanish: native · English: B2 (upper-intermediate), studied at Centro Cultural Costarricense Norteamericano, with work experience and technical training in an international environment.
 
 ## REFERENCES
 
