@@ -2,7 +2,7 @@
 
 Técnico de Manufactura y Mantenimiento Industrial | Electrónica Industrial
 
-Cartago, Costa Rica · +506 6007-5688 · fabianbrenes71@gmail.com · linkedin.com/in/fabianbrenes
+Higuito, El Guarco, Cartago, Costa Rica · +506 6007-5688 · fabianbrenes71@gmail.com · linkedin.com/in/fabianbrenes
 
 ## PERFIL PROFESIONAL
 
@@ -32,6 +32,10 @@ Manufactura de dispositivos médicos.
 - Diagnóstico de fallas y mantenimiento de equipo bajo los estándares de calidad de Intel.
 - Trabajo en turno rotativo dentro de un equipo técnico multinivel.
 
+### Pasantía Técnica — Paradise Ingredients | Oct 2019 – Nov 2019
+Área de electricidad y automatización.
+- Pasantía técnica en electricidad y automatización industrial.
+
 ## AUTOMATIZACIÓN Y ANÁLISIS DE DATOS
 
 Desarrollo de herramientas propias de automatización, monitoreo y análisis de datos, asistido por herramientas de IA:
@@ -53,6 +57,7 @@ Desarrollo de herramientas propias de automatización, monitoreo y análisis de 
 - Automatización: análisis de datos · desarrollo de herramientas asistido por IA
 - Procesos: mejora continua · optimización de yield · reducción de downtime
 - Calidad y ambiente regulado: norma ISO 13485 · cuarto limpio · manufactura médica regulada
+- Otras: manejo de alta tensión y corriente · atención al cliente · capacidad de enseñar/entrenar a otros · licencia de conducir
 
 ## IDIOMAS
 
@@ -62,3 +67,6 @@ Español: nativo · Inglés: B2 (intermedio alto), estudiado en el Centro Cultur
 
 - Pablo Morales Gutiérrez — Ingeniero de Proceso, Qorvo Inc. · Tel: 7294-2668
 - Geovanni Portuguez Sánchez — Ingeniero de Proceso, Qorvo Inc. · Tel: 8801-6044
+- Mauricio Redondo — Team Lead Shift 5, Infotree Global Solutions, Heredia · Tel: 8617-7176
+- Roy Ramírez González — Técnico Nivel 3, Intel, Heredia · Tel: 6209-1297
+- Luis Solórzano Zúñiga — Técnico Nivel 3, Intel, Heredia · Tel: 8435-1367
