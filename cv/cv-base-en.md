@@ -6,7 +6,7 @@ Higuito, El Guarco, Cartago, Costa Rica · +506 6007-5688 · fabianbrenes71@gmai
 
 ## PROFESSIONAL PROFILE
 
-Técnico Medio en Electrónica Industrial (Industrial Electronics Technician) with 6 years of experience in electronic and medical device manufacturing at multinational companies. Specialized in SMT line equipment: pick and place, reflow ovens, fixture-based electrical testers and vision systems. Experience in preventive and corrective maintenance of electrical, pneumatic and vacuum systems, with measurable results in downtime reduction and yield improvement. Experience working under ISO 13485, in cleanroom conditions and regulated medical environments. SAP experience for spare parts management. English B2 (studied at Centro Cultural Costarricense Norteamericano) and technical training abroad. Currently pursuing a degree in Electromechanical Engineering.
+Técnico Medio en Electrónica Industrial (Industrial Electronics Technician) with 6 years of experience in electronic and medical device manufacturing at multinational companies. Specialized in SMT line equipment: pick and place, reflow ovens, fixture-based electrical testers and vision systems. Experience in preventive and corrective maintenance of electrical, pneumatic and vacuum systems, with measurable results in downtime reduction and yield improvement. Experience in cleanroom conditions and regulated medical environments. SAP experience for spare parts management. English B2 (studied at Centro Cultural Costarricense Norteamericano) and technical training abroad. Currently pursuing a degree in Electromechanical Engineering.
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -23,7 +23,7 @@ Zona Franca Metropolitana, Heredia · Semiconductor manufacturing. Departure due
 ### Technical Operator — Coloplast | Aug 2021 – Jan 2022
 Medical device manufacturing.
 - Operation and technical support of industrial machinery for medical device manufacturing, in a cleanroom environment.
-- Diagnosis, repair and preventive maintenance of electrical and pneumatic equipment under medical-sector quality and safety standards, including ISO 13485.
+- Diagnosis, repair and preventive maintenance of electrical and pneumatic equipment under medical-sector quality and safety standards.
 - Selected for technical training in Hungary as part of a technology transfer process for medical manufacturing equipment.
 
 ### Lab Technician — Infotree Global Solutions (assigned to Intel) | May 2020 – Aug 2021
@@ -56,7 +56,7 @@ Self-developed automation, monitoring and data analysis tools, AI-assisted:
 - Software: SAP (spare parts & requisitions) · Microsoft Office
 - Automation: data analysis · AI-assisted tool development
 - Process: continuous improvement · yield optimization · downtime reduction
-- Quality & regulated environment: ISO 13485 · cleanroom · regulated medical manufacturing
+- Quality & regulated environment: cleanroom · regulated medical manufacturing
 - Other: high-voltage and current work · customer service · ability to train others · driver's license
 
 ## LANGUAGES

@@ -63,3 +63,7 @@ una oferta de trabajo concreta.
 - Idioma de salida: el mismo idioma en que está escrito el CV base, salvo
   que el usuario pida explícitamente otro idioma (por ejemplo, oferta en
   inglés).
+- Certificaciones o normas específicas (por ejemplo, ISO 13485) solo van en
+  el CV adaptado a la oferta que las pide explícitamente, no en `cv-base.md`.
+  No agregarlas al CV base salvo que el usuario confirme que aplican en
+  general a su experiencia.
