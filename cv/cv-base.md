@@ -2,7 +2,7 @@
 
 Técnico de Manufactura y Mantenimiento Industrial | Electrónica Industrial
 
-Higuito, El Guarco, Cartago, Costa Rica · +506 6007-5688 · fabianbrenes71@gmail.com · linkedin.com/in/fabianbrenes
+Higuito, El Guarco, Cartago, Costa Rica · +506 6007-5688 · brenesfabi3@gmail.com · linkedin.com/in/fabianbrenes
 
 ## PERFIL PROFESIONAL
 
